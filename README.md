@@ -7,7 +7,6 @@ A fully interactive and animated website for Sidcup Family Golf, showcasing **To
 - **GSAP Animations**: Smooth entrance animations and scroll-triggered transitions.
 - **Video Background**: Engaging autoplay video for an immersive experience.
 - **Hover Effects**: Cards and text dynamically change on mouse hover.
-- **Responsive Layout**: Designed to look great on all devices.
 
 ## 🛠️ Technologies Used
 - **HTML5** - Structure of the web page
