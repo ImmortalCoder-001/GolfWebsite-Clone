@@ -14,17 +14,17 @@ A fully interactive and animated website for Sidcup Family Golf, showcasing **To
 - **JavaScript (GSAP & ScrollTrigger)** - Smooth animations and scrolling effects
 
 ## 📂 Project Structure]
-
-📁 Sidcup-Family-Golf-Website ├── 📄 index.html # Main HTML structure ├── 📄 style.css # Custom styling and animations ├── 📄 script.js # JavaScript for interactive effects ├── 📁 assets/ # (Optional) Images & Videos
-
-
-## 🎥 Live Demo
-[Live Demo](#) (Add your live demo link here)
+```
+📁 Sidcup-Family-Golf-Website
+├── 📄 index.html # Main HTML structure
+├── 📄 style.css # Custom styling and animations
+├── 📄 script.js # JavaScript for interactive effects
+```
 
 ## 🛠️ Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/sidcup-family-golf.git
+   git clone https://github.com/ImmortalCoder-001/GolfWebsite-Clone.git
 2.Open index.html in your browser.
 
 📞 Contact
