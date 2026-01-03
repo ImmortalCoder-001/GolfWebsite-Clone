@@ -2,6 +2,10 @@
 
 A fully interactive and animated website for Sidcup Family Golf, showcasing **Toptracer Range, Golf Lessons, Adventure Golf, Café, and Events**. This project features **smooth scrolling, hover effects, custom animations, and GSAP-powered interactions**.
 
+## 🌐 Live Demo
+
+**[View Live Project →](https://golf-website-clone-bjv1iu85e-immortalcoder-001s-projects.vercel.app/)**
+
 ## 🚀 Features
 - **Custom Cursor Effects**: Enhances user interaction with a glowing animated cursor.
 - **GSAP Animations**: Smooth entrance animations and scroll-triggered transitions.
